@@ -1,6 +1,0 @@
-{{ define "article" }}
-
-	<h1>{{ if isset $.Params "h1_title" }}{{ $.Params.h1_title | markdownify }}{{ else }}{{ .Title | markdownify }}{{ end }}</h1>
-	{{ .Content }}	
-
-{{ end }}	
