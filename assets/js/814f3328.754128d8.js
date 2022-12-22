@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_2_classic_template=self.webpackChunkdocusaurus_2_classic_template||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to our new blog!","permalink":"/blog/2022/03/08/our-new-blog"}]}')}}]);

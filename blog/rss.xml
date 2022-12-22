@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Scratch Addons Docs Blog</title>
+        <link>https://docs.scratchaddons.com/blog</link>
+        <description>Scratch Addons Docs Blog</description>
+        <lastBuildDate>Tue, 08 Mar 2022 05:28:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to our new blog!]]></title>
+            <link>https://docs.scratchaddons.com/blog/2022/03/08/our-new-blog</link>
+            <guid>/2022/03/08/our-new-blog</guid>
+            <pubDate>Tue, 08 Mar 2022 05:28:41 GMT</pubDate>
+            <description><![CDATA[If you read this, chances are our blog is now up! We are proud to annouce that we got a new blog for Scratch Addons.]]></description>
+            <content:encoded><![CDATA[<p>Hello, everyone. If you can read this, chances are our blog is now up. Welcome!</p><p>We are proud to announce that we got a new blog for Scratch Addons. Currently, this is the only post, but expect updates, tips, and other things in the next days. We can't wait to share them to you.</p><p>Stay tuned with the new posts on our available channels, like YouTube, Discord, etc. We also got <a href="https://scratchaddons.com/blog/index.xml" target="_blank" rel="noopener noreferrer">a RSS feed</a> if you are into that sort of thing.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
