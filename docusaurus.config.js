@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/icon.svg",
   projectName: 'docs',
   organizationName: 'scratchaddons',
   trailingSlash: false,
