@@ -9,7 +9,7 @@ const config = {
   title: "Scratch Addons Docs",
   tagline: "All-in-one browser extension for Scratch",
   url: "https://docs.scratchaddons.com",
-  baseUrl: "/docs",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/icon.svg",
