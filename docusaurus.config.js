@@ -9,10 +9,13 @@ const config = {
   title: "Scratch Addons Docs",
   tagline: "All-in-one browser extension for Scratch",
   url: "https://docs.scratchaddons.com",
-  baseUrl: "/",
+  baseUrl: "/docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
+  projectName: 'docs',
+  organizationName: 'scratchaddons',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
