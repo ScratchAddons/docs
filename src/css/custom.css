@@ -29,7 +29,7 @@
 .footer--dark {
   --ifm-footer-background-color: #242424;
 }
-.footer--dark[data-theme='light'] {
+[data-theme='light'] .footer--dark {
   --ifm-footer-background-color: #f5f5f5;
   --ifm-footer-color: #4e5862;
   --ifm-footer-link-color: #2c3237;
