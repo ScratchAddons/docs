@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© 2022 Scratch Addons contributors
+        copyright: `© 2023 Scratch Addons contributors
 
         Scratch Addons is not affiliated, associated, or in any way officially connected with the Scratch website or the organizations that maintain it.
         
